@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "abir",
+      "email": "abir@gmail.com",
+      "password": "1111"
+    },
+    {
+      "id": 2,
+      "name": "Sabbir",
+      "email": "sabbir@gmail.com",
+      "password": "2222"
+    },
+    {
+      "id": 3,
+      "name": "Nahin",
+      "email": "nahin@gmail.com",
+      "password": "3333"
+    },
+    {
+      "name": "akash",
+      "email": "akash@gmail.com",
+      "password": "4444",
+      "id": 4
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmail.com",
+      "password": "anc",
+      "id": 5
+    },
+    {
+      "name": "asas",
+      "email": "as@asd",
+      "password": "asas",
+      "id": 6
+    },
+    {
+      "name": "hello@sad",
+      "email": "hello",
+      "password": "sdf",
+      "id": 7
+    },
+    {
+      "name": "asda",
+      "email": "sda",
+      "password": "asd",
+      "id": 8
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Ding Dong Food",
+      "contact": "11111",
+      "address": "Uttara sector 3 road-11",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "King See Food",
+      "contact": "016592",
+      "address": "Bonani, road-11"
+    },
+    {
+      "name": "Candle candy",
+      "contact": "65661622211",
+      "address": "dhannondi",
+      "id": 3
+    }
+  ]
+}

@@ -1,10 +1,18 @@
 # vue3-restaurant-management
 
+
 ## Project setup
 ```
 yarn install
 ```
 
+### Start Json server
+
+```
+cd db
+
+json-server --watch database.json 
+```
 ### Compiles and hot-reloads for development
 ```
 yarn serve
